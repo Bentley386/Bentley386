@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **한국어**
 
-- 📝 I regularly write articles on [N/A](N/A)
+- 📝 I regularly write articles on [N/A](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 - 📫 How to reach me **andrej.pozun@proton.me**
 
-- 📄 Know about my experiences [Resume](Resume)
+- 📄 Know about my experiences [Resume](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-- ⚡ Fun fact **I generated this README with https://rahuldkjain.github.io/ and it's a WIP**
+- ⚡ Fun fact **This page isn't finished yet but cba rn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
